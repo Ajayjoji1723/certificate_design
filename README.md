@@ -24,6 +24,7 @@ Make sure you have the following installed on your system:
 ## Installation
 
 1. Clone the repository:
+    client repo : clone https://github.com/Ajayjoji1723/certifiacte_client.git
 
    ```bash
    git clone https://github.com/Ajayjoji1723/certificate_designer.git
