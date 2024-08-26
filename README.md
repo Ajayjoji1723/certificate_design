@@ -1,6 +1,6 @@
 # Getting Started with Certificate Designer
 
-This project is a certificate designer application that allows users to create, preview, and download certificates with QR codes. It consists of a client (frontend) and a server (backend) that are both contained within the same repository.
+This project is a certificate designer application that allows users to create, preview, and download certificates with QR codes. It consists of a client (frontend) and a server (backend). clone the client from below attached link.
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@ Make sure you have the following installed on your system:
 ## Installation
 
 1. Clone the repository:
-    client repo : clone https://github.com/Ajayjoji1723/certifiacte_client.git
+    client repository clone https://github.com/Ajayjoji1723/certifiacte_client.git
 
    ```bash
    git clone https://github.com/Ajayjoji1723/certificate_designer.git
